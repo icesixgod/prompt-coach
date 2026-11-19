@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT-6.2 提示词教练"
+  short_description: "按 GPT-6.2 的最佳实践评价原提示词，像 Plan 一样逐项讨论改法"
+  default_prompt: "用 $prompt-coach 评价我接下来贴的提示词，给出我可以逐项选择的修改建议。"
